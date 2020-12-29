@@ -12,7 +12,7 @@
 
 
 
-## Cloudera HIVE/Impala-Alteryx connection 
+## Tableau - Cloudera  connection 
 ```
 Hi,  my name is Ray Kim. 
 THis documentation will show how you can establish connection between Cloudera Datalake and Tableau.
