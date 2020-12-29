@@ -1,6 +1,6 @@
 # tableau_cloudera
 
-![alt text](https://www.absentdata.com/wp-content/uploads/2018/01/Tableau-logo.jpg )
+![alt text](https://www.absentdata.com/wp-content/uploads/2018/01/Tableau-logo.jpg | height=50)
 
 ![123](123123213https://www.cloudera.com/content/dam/www/marketing/media-kit/logo-assets/cloudera_logo_darkorange.png )
 
