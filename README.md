@@ -20,5 +20,5 @@ THis documentation will show how you can establish connection between Cloudera D
 ```
 
 
-
+<img  src="https://user-images.githubusercontent.com/62319355/103265908-aaff5580-49e9-11eb-9871-87d91f0281ec.png"   alt="Tableau_0">
 <img align="left" src="https://user-images.githubusercontent.com/62319355/103265296-40014f00-49e8-11eb-9654-9dbeaa2379ad.png"   alt="Tableau">
