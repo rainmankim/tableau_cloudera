@@ -1,7 +1,7 @@
 # tableau_cloudera
 
-<img src="https://www.cloudera.com/content/dam/www/marketing/media-kit/logo-assets/cloudera_logo_darkorange.png" height="50"  width="100">
-
+<img src="https://www.cloudera.com/content/dam/www/marketing/media-kit/logo-assets/cloudera_logo_darkorange.png" height="40" >
+<img align="right" src="https://www.tableau.com/sites/default/files/pages/tableau_cmyk_2015.png"  height="40" alt="Tableau">
 
 
 
@@ -16,6 +16,6 @@
 ![12321](https://www.cloudera.com/content/dam/www/marketing/media-kit/logo-assets/cloudera_logo_darkorange.png| height=50)
 
 
-<img align="right" src="https://www.cloudera.com/content/dam/www/marketing/media-kit/logo-assets/cloudera_logo_darkorange.png"  height="80" alt="Alteryx">
+
 
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
