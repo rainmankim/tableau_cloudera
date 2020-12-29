@@ -1,6 +1,6 @@
 # tableau_cloudera
 
-<img src="https://www.cloudera.com/content/dam/www/marketing/media-kit/logo-assets/cloudera_logo_darkorange.png" height="50">
+<img src="https://www.cloudera.com/content/dam/www/marketing/media-kit/logo-assets/cloudera_logo_darkorange.png" height="50"  width="100">
 
 
 
