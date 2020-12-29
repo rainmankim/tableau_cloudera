@@ -5,7 +5,6 @@
 
 
 
-<img align= src="https://user-images.githubusercontent.com/62319355/103265296-40014f00-49e8-11eb-9654-9dbeaa2379ad.png" alt="Tableau_connection">
 
 <br />
 <br />
@@ -21,3 +20,7 @@ Hi,  my name is Ray Kim.
 THis documentation will show how you can establish connection between Cloudera Datalake and Tableau.
 
 ```
+
+
+
+<img align="left" src="https://user-images.githubusercontent.com/62319355/103265296-40014f00-49e8-11eb-9654-9dbeaa2379ad.png"  height="60" alt="Tableau">
